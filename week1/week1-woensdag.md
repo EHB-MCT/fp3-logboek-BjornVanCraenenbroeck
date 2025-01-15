@@ -30,7 +30,7 @@
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Instructie:*  
-- Tevreden , gedaan wat gadaan moest worden
+- Tevreden , gedaan wat gedaan moest worden
 
 
 > **Algmeeen gevoel:**  
