@@ -11,8 +11,13 @@
 *Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
 - Daily scrum
 - verschillende pagina's van het design consistent gemaakt
-- De html + deel van css gedaan van vragen pagina gemaakt
+
+- De html + deel van css gedaan van vragen pagina gemaakt 
+-> vragen.html: h1 + Ja/nee buttons + inputbox + Volgende button
+
 - gewerkt aan html + deel van css+ js van sorrykaart pagina gemaakt
+-> sorrykaart.html: h1 + p + Inputbox + Stickers button 
+-> sorrykaart.js : de werking van de stickers op het kaartje -> nog niet af
 
 
 
