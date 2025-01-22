@@ -20,7 +20,7 @@
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 *Instructie (1 item per dag volstaat):*  
-- Niets nieuw geleerd
+- Verschillende designs van wireframes combineren tot 1 en de beste elementen eruit leren pakken.
 
 ---
 
