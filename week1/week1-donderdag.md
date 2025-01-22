@@ -31,7 +31,7 @@
 
 
 > **Algmeeen gevoel:**  
- Blij, Tevreden
+ Blij, Tevreden 😊
 
 ---
 
