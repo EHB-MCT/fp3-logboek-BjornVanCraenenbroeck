@@ -10,12 +10,12 @@
 
 *Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
 - Daily scrum
-- De homepage for desktop gedaan   ---
-  -> achtergrondimage van "Hoe werkt het?" een vast formaat gegeven en het probleem van de marges opgelost.---
-  -> infodiv van "Hoe werkt het?" gecentreerd gekregen voor alle formaten.---
-  -> footer voor desktop gefixed -> ook wat lager gezet.---
-  -> versprongen content terug geplaats( knop en illustratie + Iconen)---
-  -> merge probleem opgelost ( in groep)---
+- De homepage for desktop gedaan   
+  -> achtergrondimage van "Hoe werkt het?" een vast formaat gegeven en het probleem van de marges opgelost.
+  -> infodiv van "Hoe werkt het?" gecentreerd gekregen voor alle formaten.
+  -> footer voor desktop gefixed -> ook wat lager gezet.
+  -> versprongen content terug geplaats( knop en illustratie + Iconen)
+  -> merge probleem opgelost ( in groep)
   
   
 
